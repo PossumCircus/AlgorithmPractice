@@ -1,10 +1,10 @@
 # [level unrated] A로 B 만들기 - 120886 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120886#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120886) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.14 ms
+메모리: 33.6 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 2일 23:24:12
+2023년 10월 2일 23:27:26
 
 ### 문제 설명
 
