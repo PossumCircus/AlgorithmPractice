@@ -1,3 +1,3 @@
 function solution(spell, dic) {
-    return dic.some( v=> [...v].sort().toString() === [...spell].sort().toString()) ? 1:2;
+    return dic.some( v=> [...v].sort() === [...spell].sort()) ? 1:2;
 }
