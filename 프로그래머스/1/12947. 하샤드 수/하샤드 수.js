@@ -5,5 +5,5 @@ function solution(x) {
         number += Number(converted[i])
     }
     
-    return x%number === 0 ? true : false
+    return x%number ===0
 }
